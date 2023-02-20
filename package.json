@@ -1,7 +1,7 @@
 {
   "name": "@binarykatt/eslint-config",
   "description": "ESLint config extended",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/binarkatt/eslint-config",
   "repository": {
     "type": "git",
@@ -20,5 +20,17 @@
   "peerDependencies": {
     "eslint": ">= 8.0.0",
     "typescript": ">= 4.3.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/binarkatt/eslint-config/issues"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": ""
 }
