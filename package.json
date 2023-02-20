@@ -1,7 +1,7 @@
 {
   "name": "@binarykatt/eslint-config",
   "description": "ESLint config extended",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/binarkatt/eslint-config",
   "repository": {
     "type": "git",
