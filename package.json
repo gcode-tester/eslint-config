@@ -1,7 +1,7 @@
 {
   "name": "@logkatt/eslint-config",
   "description": "ESLint config extended",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "homepage": "https://github.com/binarkatt/eslint-config",
   "repository": {
     "type": "git",
@@ -10,8 +10,8 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "6.19.1",
-    "@typescript-eslint/parser": "6.19.1",
+    "@typescript-eslint/eslint-plugin": "7.0.1",
+    "@typescript-eslint/parser": "7.0.1",
     "eslint-plugin-import-newlines": "1.3.4",
     "eslint-plugin-import": "2.29.1",
     "eslint-plugin-n": "16.6.2",
