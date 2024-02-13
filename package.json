@@ -1,7 +1,7 @@
 {
   "name": "@logkatt/eslint-config",
   "description": "ESLint config extended",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "homepage": "https://github.com/binarkatt/eslint-config",
   "repository": {
     "type": "git",
