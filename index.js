@@ -231,7 +231,7 @@ module.exports = {
     'wrap-iife': ['error', 'any', { functionPrototypeMethods: true }],
     'yield-star-spacing': ['error', 'both'],
     'yoda': ['error', 'never'],
-  
+
     'import/export': 'error',
     'import/first': 'error',
     'import/no-absolute-path': ['error', {
@@ -244,7 +244,7 @@ module.exports = {
     'import/no-webpack-loader-syntax': 'error',
     'import-newlines/enforce': ['error', {
       items: 3,
-      'max-len': 110,
+      'max-len': 100,
     }],
     'n/handle-callback-err': ['error', '^(err|error)$' ],
     'n/no-callback-literal': 'error',
@@ -266,7 +266,7 @@ module.exports = {
     'guard-for-in': 'error',
     'id-blacklist': 'off',
     'id-match': 'off',
-    'max-len': ['error', { code: 120 },
+    'max-len': ['error', { code: 100 },
     ],
     'no-bitwise': 'error',
     'no-console': ['error', {
